@@ -3,7 +3,7 @@ name: Check-Test-Coverage Workflow
 on: [push]
 
 jobs:
-  style-check: 
+  style_check: 
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
