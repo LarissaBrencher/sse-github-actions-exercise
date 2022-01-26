@@ -1,4 +1,4 @@
-![check-test-coverage-action](https://github.com/LarissaBrencher/sse-github-actions-exercise/actions/workflows/.github/workflows/check-test-coverage.yml/badge.svg)
+![SSE CI/CD](https://github.com/LarissaBrencher/sse-github-actions-exercise/actions/workflows/.github/workflows/check-test-coverage.yml/badge.svg)
 
 # Automation Exercise
 
